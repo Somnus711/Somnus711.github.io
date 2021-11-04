@@ -19,7 +19,7 @@ else
   msg='来自github actions的自动部署'
   githubUrl=https://dhy:${ACCESS_TOKEN}@github.com:Somnus711/Somnus711.github.io.git
   git config --global user.name "dhy"
-  git config --global user.email "haoyuan1996@qq.com"
+  git config --global user.email "1228909324@qq.com"
 fi
 git init
 git add -A
