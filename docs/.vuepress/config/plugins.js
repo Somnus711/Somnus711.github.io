@@ -80,8 +80,8 @@ module.exports = [
         clientID: '11dce51442462f300bb2',
         clientSecret: 'c9f3e90cf40e099bf5304d77520d1cb7ce1ccc21',
         repo: 'blog-gitalk-comment', // GitHub 仓库
-        owner: 'xugaoyi', // GitHub仓库所有者
-        admin: ['xugaoyi'], // 对仓库有写权限的人
+        owner: 'Somnus711', // GitHub仓库所有者
+        admin: ['Somnus711'], // 对仓库有写权限的人
         // distractionFreeMode: true,
         pagerDirection: 'last', // 'first'正序 | 'last'倒序
         id: '<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>', //  页面的唯一标识,长度不能超过50
