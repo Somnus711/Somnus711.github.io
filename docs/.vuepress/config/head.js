@@ -9,6 +9,6 @@ module.exports = [
       content: '个人技术博客,前端,后端,算法,技术文档,Web',
     },
   ],
-  ['meta', { name: 'baidu-site-verification', content: '7F55weZDDc' }], // 百度统计的站长验证
+  ['meta', { name: 'baidu-site-verification', content: 'code-8W5CGMk5yL' }], // 百度统计的站长验证
   ['meta', { name: 'theme-color', content: '#11a8cd' }], // 移动浏览器主题颜色
 ]
