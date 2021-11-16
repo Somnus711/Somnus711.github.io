@@ -79,7 +79,7 @@ module.exports = [
       options: {
         clientID: '11dce51442462f300bb2',
         clientSecret: 'c9f3e90cf40e099bf5304d77520d1cb7ce1ccc21',
-        repo: 'blog-gitalk-comment', // GitHub 仓库
+        repo: 'Somnus711.github.io', // GitHub 仓库
         owner: 'Somnus711', // GitHub仓库所有者
         admin: ['Somnus711'], // 对仓库有写权限的人
         // distractionFreeMode: true,
