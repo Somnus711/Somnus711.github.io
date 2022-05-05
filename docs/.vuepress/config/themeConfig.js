@@ -20,9 +20,9 @@ module.exports = {
   // categoryText: '随笔', // 碎片化文章（_posts文件夹的文章）预设生成的分类值，默认'随笔'
 
   bodyBgImg: [
-    'https://blog.cos.denghaoyuan.com/bg.jpeg',
-    'https://blog.cos.denghaoyuan.com/bg1.jpeg',
-    'https://blog.cos.denghaoyuan.com/bg2.jpeg'
+    'https://cdn.jsdelivr.net/gh/Somnus711/picx-image-hosting@master/blog-pic/bg.3m1agdmskqgw.webp',
+    'https://cdn.jsdelivr.net/gh/Somnus711/picx-image-hosting@master/blog-pic/bg1.5d8ee0905zi8.webp',
+    'https://cdn.jsdelivr.net/gh/Somnus711/picx-image-hosting@master/blog-pic/bg2.3dgb68n85zk0.webp'
   ], // body背景大图，默认无。 单张图片 String || 多张图片 Array, 多张图片时每隔15秒换一张。
   bodyBgImgOpacity: 0.5, // body背景图透明度，选值 0 ~ 1.0, 默认0.5
 
@@ -50,7 +50,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: 'https://blog.cos.denghaoyuan.com/avatar.jpg',
+    avatar: 'https://cdn.jsdelivr.net/gh/Somnus711/picx-image-hosting@master/blog-pic/avatar.2b7e13idyy9s.webp',
     name: 'Somnus Haoyuan',
     slogan: '想成为一个厉害的人',
   },
@@ -83,7 +83,7 @@ module.exports = {
             License</a><br />
         <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802034042"
             style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img
-                src="https://blog.cos.denghaoyuan.com/%E5%A4%87%E6%A1%88%E5%9B%BE%E6%A0%87.png" style="float:left;" />
+                src="https://cdn.jsdelivr.net/gh/Somnus711/picx-image-hosting@master/blog-pic/备案图标.3ph98jsceq0w.webp" style="float:left;" />
             <span>京公网安备 11010802034042号</span>
         </a>
         <a target="_blank" href="https://beian.miit.gov.cn"
