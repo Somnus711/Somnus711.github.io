@@ -40,7 +40,7 @@ tags:    # 所属标签
 ---
 ```
 
-## 完整的front matter
+## 完整的front matter 
 
 ```yml
 ---
