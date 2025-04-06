@@ -4,7 +4,7 @@
 
 2️⃣ 完整版 GitHub Pages 地址（中、快）：<https://github.denghaoyuan.com/>
 
-3️⃣ 完整版 Gitee Pages 地址（快）：<https://gitee.denghaoyuan.com/>
+3️⃣ 完整版 Gitee Pages 地址（快）（Gitee Pages 暂停提供服务）：<https://gitee.denghaoyuan.com/>
 
 ## 目录页的front matter
 
