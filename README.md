@@ -1,12 +1,14 @@
 欢迎来到我的博客，请放下浮躁，细细品尝她，希望不会让你失望。
 
-1️⃣ 完整版主地址（快）：<https://denghaoyuan.com/>
+1️⃣ 主地址（快）：<https://denghaoyuan.com/>
 
-2️⃣ 完整版 GitHub Pages 地址（中、快）：<https://github.denghaoyuan.com/>
+2️⃣ GitHub Pages 地址（中、快）：<https://github.denghaoyuan.com/>
 
-3️⃣ 完整版 Gitee Pages 地址（快）（Gitee Pages 暂停提供服务）：<https://gitee.denghaoyuan.com/>
+3️⃣ Vercel 部署地址（中、快）：<https://notes.denghaoyuan.com/>
 
-## 目录页的front matter
+4️⃣ Gitee Pages 地址（快）（Gitee Pages 暂停提供服务）：<https://gitee.denghaoyuan.com/> 
+
+## 目录页的 front matter
 
 ``` yml
 ---
@@ -26,7 +28,7 @@ editLink: false # 不显示编辑按钮
 ---
 ```
 
-## 笔记文档的front matter
+## 笔记文档的 front matter
 
 ```yml
 ---
@@ -40,7 +42,7 @@ tags:    # 所属标签
 ---
 ```
 
-## 完整的front matter 
+## 完整的 front matter 
 
 ```yml
 ---

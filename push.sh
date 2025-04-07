@@ -4,7 +4,7 @@
 
 GITHUB_REPO=git@github.com:Somnus711/Somnus711.github.io.git
 
-GITEE_REPO=git@gitee.com:somnus711/somnus711.git
+#GITEE_REPO=git@gitee.com:somnus711/somnus711.git
 
 comment=$1
 
@@ -18,6 +18,6 @@ git commit -m "${comment}"    # $1 是启动该脚本传来的参数，如 sh pu
 
 git push $GITHUB_REPO   
 
-git push $GITEE_REPO
+#git push $GITEE_REPO
 
 source ./deploy.sh
