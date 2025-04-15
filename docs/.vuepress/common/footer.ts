@@ -15,5 +15,5 @@ export default <Footer>{
         </a>
         <a target="_blank" href="https://beian.miit.gov.cn"
             style="display:inline-block;text-decoration:none;height:20px;line-height:20px;padding-left: 10px;">
-            <span>京ICP备2020033847号-1</span></a>`, // 博客版权信息，支持a标签
+            <span>京ICP备2025120692号-1</span></a>`, // 博客版权信息，支持a标签
 };
