@@ -4,7 +4,7 @@
 
 2️⃣ GitHub Pages 地址（慢）：<https://github.denghaoyuan.com/>
 
-3️⃣ Vercel 部署地址（慢）：<https://notes.denghaoyuan.com/>
+3️⃣ Vercel 部署地址（中）：<https://notes.denghaoyuan.com/>
 
 4️⃣ Gitee Pages 地址（快）（Gitee Pages 暂停提供服务）：<https://gitee.denghaoyuan.com/> 
 
